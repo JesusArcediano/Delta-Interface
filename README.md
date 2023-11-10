@@ -1,5 +1,7 @@
 # Delta Project
 
+![Delta Project Image](image.png)
+
 ## Purpose
 
 ```
